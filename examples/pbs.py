@@ -41,4 +41,3 @@ for pb in data['data']:
     print(f"Raw WPM: {pb['raw']}")
     print(f"WPM: {pb['wpm']}")
     print(f"Timestamp: {timestamp}")
-    print()
