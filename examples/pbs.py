@@ -12,7 +12,9 @@ headers = {
     'Authorization': f'ApeKey {ape_key}'
 }
 
+# mode is the typing mode you want to get PBs for ie "time" or "words"
 mode = "time"
+# mode2 is the amount of time or words you want to get PBs for ie "60" or "15"
 mode2= "15"
 
 # Send a GET request to the Monkeytype API
